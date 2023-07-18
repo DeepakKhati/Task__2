@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(103, 103, 186);
+}
+.first{
+    color: aliceblue;
+;
+}
+.color{
+    color: red;
+    size: 1px;
+}
+.size{
+    size: 100em;
+    color: aliceblue;
+}
+
+.font{
+    color: aliceblue;
+    size: 1rem;
+
+}
+
+h4{
+    color: aliceblue;
+    font-family: cursive;
+
+}
+
+.title{
+    text-align: right;
+    color: aliceblue;
+}
